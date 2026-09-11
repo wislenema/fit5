@@ -17,6 +17,8 @@
   },
   "interstitial": { "enabled": true, "frequency": 3 },
   "app_open": { "enabled": true },
+  "privacy_policy_url": "https://example.com/privacy",
+  "feedback_email": "developer@example.com",
   "placements": {
     "home": "banner",
     "connected_watch": "native",
