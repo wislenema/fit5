@@ -1,24 +1,24 @@
 {
-  "enabled": false,
+  "enabled": true,
   "admob": {
     "enabled": true,
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner": "ca-app-pub-3940256099942544/9214589741",
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "app_open": "ca-app-pub-3940256099942544/9257395921"
+    "app_id": "ca-app-pub-3121968263547350~2029783027",
+    "banner": "ca-app-pub-3121968263547350/1870450630",
+    "native": "ca-app-pub-3121968263547350/4265064120",
+    "interstitial": "ca-app-pub-3121968263547350/3179662879",
+    "app_open": "ca-app-pub-3121968263547350/2951982457"
   },
   "facebook": {
     "enabled": true,
-    "banner": "",
-    "native": "",
-    "interstitial": "",
+    "banner": "1328767185823139_1328768449156346",
+    "native": "1328767185823139_1328768875822970",
+    "interstitial": "1328767185823139_1328768689156322",
     "app_open": ""
   },
   "interstitial": { "enabled": true, "frequency": 3 },
   "app_open": { "enabled": true },
-  "privacy_policy_url": "https://example.com/privacy",
-  "feedback_email": "developer@example.com",
+  "privacy_policy_url": "https://anagataarta.blogspot.com/p/privacy-policy.html",
+  "feedback_email": "laksamanasukardi17@gmail.com",
   "placements": {
     "home": "banner",
     "connected_watch": "native",
