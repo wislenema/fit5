@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "admob": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "ca-app-pub-3121968263547350~2029783027",
     "banner": "ca-app-pub-3121968263547350/1870450630",
     "native": "ca-app-pub-3121968263547350/4265064120",
@@ -9,7 +9,7 @@
     "app_open": "ca-app-pub-3121968263547350/2951982457"
   },
   "facebook": {
-    "enabled": true,
+    "enabled": false,
     "banner": "1328767185823139_1328768449156346",
     "native": "1328767185823139_1328768875822970",
     "interstitial": "1328767185823139_1328768689156322",
