@@ -2,29 +2,29 @@
   "enabled": false,
   "admob": {
     "enabled": false,
-    "app_id": "ca-app-pub-3121968263547350~2029783027",
-    "banner": "ca-app-pub-3121968263547350/1870450630",
-    "native": "ca-app-pub-3121968263547350/4265064120",
-    "interstitial": "ca-app-pub-3121968263547350/3179662879",
-    "app_open": "ca-app-pub-3121968263547350/2951982457"
+    "app_id": "",
+    "banner": "",
+    "native": "",
+    "interstitial": "",
+    "app_open": ""
   },
   "facebook": {
     "enabled": false,
-    "banner": "1328767185823139_1328768449156346",
-    "native": "1328767185823139_1328768875822970",
-    "interstitial": "1328767185823139_1328768689156322",
+    "banner": "",
+    "native": "",
+    "interstitial": "",
     "app_open": ""
   },
-  "interstitial": { "enabled": true, "frequency": 3 },
-  "app_open": { "enabled": true },
+  "interstitial": { "enabled": false, "frequency": 30 },
+  "app_open": { "enabled": false },
   "privacy_policy_url": "https://anagataarta.blogspot.com/p/privacy-policy.html",
   "feedback_email": "laksamanasukardi17@gmail.com",
   "placements": {
-    "home": "banner",
-    "connected_watch": "native",
-    "watch_face": "native",
-    "settings": "native",
-    "connect": "banner",
-    "watch_brands": "banner"
+    "home": "off",
+    "connected_watch": "off",
+    "watch_face": "off",
+    "settings": "off",
+    "connect": "off",
+    "watch_brands": "off"
   }
 }
